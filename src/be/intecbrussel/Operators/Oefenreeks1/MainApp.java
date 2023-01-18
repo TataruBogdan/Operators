@@ -5,7 +5,7 @@ public class MainApp {
 
     public static void main(String[] args) {
 
-        // Operators - Oefenreeks 1
+        // Operators - Oefenreeks1
 
         int a = 5;
         int b = 10;
