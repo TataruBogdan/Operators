@@ -1,8 +1,9 @@
-package be.intecbrussel;
+package be.intecbrussel.Operators;
 
 public class MainApp {
 
     public static void main(String[] args) {
+
 
         // arithmetic operators (+, - *, /)
         // + -> optellen
@@ -259,7 +260,6 @@ public class MainApp {
         System.out.println("iNum <= lNum : " + smallerThanOrEqual);
         smallerThanOrEqual = iNum <= bNum;
         System.out.println("iNum <= bNum : " + smallerThanOrEqual);
-
 
 
 
