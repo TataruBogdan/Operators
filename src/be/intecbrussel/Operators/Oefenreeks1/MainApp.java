@@ -44,6 +44,8 @@ public class MainApp {
         // Gebruik de niet gelijk aan vergelijkings operator (!=) om te controleren of "a" ongelijk is aan "b" enprint het resultaat.
         boolean notEqual = a != b;
         System.out.println("a not equal b : " + notEqual);
+
+
     }
 
 

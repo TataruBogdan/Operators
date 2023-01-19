@@ -262,7 +262,18 @@ public class MainApp {
         System.out.println("iNum <= bNum : " + smallerThanOrEqual);
 
 
+        int myInteger = 10;
+        int newVar = 0;
+        System.out.println("My integer : " + myInteger);
 
+        newVar = myInteger + myInteger;
+        System.out.println("My integer : " + newVar);
+
+        short shortNum = 101;
+        float floatNum = 10.99F;
+        shortNum = (short)floatNum;
+
+        
     }
 
 }
